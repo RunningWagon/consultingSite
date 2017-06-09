@@ -12,6 +12,10 @@ h1 {
     1px 1px 0 #000;  
 }
 
+#logo {
+    padding-top: 3%;
+}
+
 
 /* Contact */ 
 .contact-outer {
