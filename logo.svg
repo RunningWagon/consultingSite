@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="890px"
-   height="316px"
-   viewBox="0 0 749 316"
+   width="826.586"
+   height="315.47733"
+   viewBox="0 0 695.63249 315.47733"
    version="1.1"
    id="svg26"
    sodipodi:docname="logo.svg"
@@ -43,8 +43,8 @@
      id="namedview28"
      showgrid="false"
      inkscape:zoom="1.6426966"
-     inkscape:cx="373.26235"
-     inkscape:cy="157.4953"
+     inkscape:cx="424.4738"
+     inkscape:cy="157.10383"
      inkscape:window-x="-8"
      inkscape:window-y="1313"
      inkscape:window-maximized="1"
@@ -55,12 +55,13 @@
   <defs
      id="defs13">
     <path
-       d="M758.777957,388.376176 L692.496212,388.376176 L605.977273,388.376176 L395.022727,388.376176 L535.659091,177.661442 L625.280303,311.940439 L668.022727,311.940439 L535.659091,113.62069 L328.840909,423.495298 L704.215909,423.495298 L782.1995,423.495298 L758.777957,388.376176 Z"
-       id="path-1" />
+       d="M 758.77796,388.37618 H 692.49621 605.97727 395.02273 l 140.63636,-210.71474 89.62121,134.279 h 42.74243 L 535.65909,113.62069 328.84091,423.4953 h 375.375 77.98359 z"
+       id="path-1"
+       inkscape:connector-curvature="0" />
   </defs>
   <g
      id="Page-1"
-     transform="translate(-70)"
+     transform="translate(-66.601513,-0.01797289)"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
     <g
        id="Rayel"
