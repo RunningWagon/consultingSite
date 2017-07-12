@@ -21,8 +21,8 @@
                 <use fill="#FFB500" fill-rule="evenodd" xlink:href="#path-3"></use>
                 <rect stroke="#FFB500" stroke-width="1" x="376" y="300" width="36" height="529" rx="18"></rect>
             </g>
-            <text id="RAYEL" font-family="Phosphate-Inline, Phosphate" font-size="72" font-weight="normal" fill="#F0F0F0">
-                <tspan x="300.288" y="440">RAYEL</tspan>
+            <text id="RAYEL" font-family="sans-serif" font-size="72" font-weight="normal" fill="#F0F0F0">
+                <tspan x="285" y="475">RAYEL</tspan>
                 <tspan x="394.5" y="527"> </tspan>
             </text>
         </g>

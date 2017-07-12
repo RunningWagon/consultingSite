@@ -19,6 +19,15 @@ h1 {
     left: 16px;
     z-index: 100;
 }
+
+#arrow{
+    width:3%;
+    height: 3%;
+    margin-right: 70%;
+    left: 16px;
+    margin-top: 30%;
+
+}
 .btn-light:hover{
     background-color: #9012FE;
     border-color:#9012FE !important;
