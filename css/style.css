@@ -36,7 +36,7 @@ h1 {
 }
 /* Contact */ 
 .contact-outer {
-    background-color: #000000;
+    background-color: #222;
     background-attachment: fixed;
     background-position: center; 
     background-size: cover; 
@@ -57,7 +57,7 @@ h1 {
     z-index: 0;
 }
 .bg-primary{
-    background-color: #000000;
+    background-color: #222;
 }
 .text-primary{
     color: #9012FE;
